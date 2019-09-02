@@ -1,3 +1,11 @@
+# Rae Raaj's First CS193 Homework
+
+- The TA's :)
+- The informative information we'll be learning
+- Not the iclicker
+- Coding
+- Problem solving
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
